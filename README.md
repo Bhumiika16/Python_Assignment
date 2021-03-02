@@ -10,11 +10,11 @@ Problem 2 : https://github.com/Bhumiika16/Python_Assignment/blob/main/Problem(1.
 
 Problem 3 : https://github.com/Bhumiika16/Python_Assignment/blob/main/Problem(1.3).py
 
-Problem 3 : https://github.com/Bhumiika16/Python_Assignment/blob/main/Problem(1.4).py
+Problem 4 : https://github.com/Bhumiika16/Python_Assignment/blob/main/Problem(1.4).py
 
-Problem 3 : https://github.com/Bhumiika16/Python_Assignment/blob/main/Problem(1.5).py
+Problem 5 : https://github.com/Bhumiika16/Python_Assignment/blob/main/Problem(1.5).py
 
-Problem 3 : https://github.com/Bhumiika16/Python_Assignment/blob/main/Problem(1.6).py
+Problem 6 : https://github.com/Bhumiika16/Python_Assignment/blob/main/Problem(1.6).py
 
 INTERMEDIATE LEVEL QUESTIONS : 
 
